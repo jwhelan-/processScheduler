@@ -2,4 +2,4 @@
 
 ### Java Process Scheduler ###
 
-This program simulates how the process scheduler for an operating system opperates with various scheduling algorithms.
+This program simulates how the process scheduler for an operating system works with various scheduling algorithms.
